@@ -24,6 +24,7 @@ O código fonte encontra-se disponível na pasta Codigo_fonte_do_projeto_vaso_de
 <p>Sensor De Nível De Líquidos Sem Contato (foi usado no pino D1)</p>
 <p>Mini bomba submersível 80-120l/h Dc (foi usado no pino D6)</p>
 <p>Modulo Relé 1 Canal 5v (usado para acionar a mini bomba)</p>
+<p>Conversor de Nível Lógico 3,3/5V (usado para o funcionamento correto do rele)</p>
 
 # Esquema do circuíto:
 <img src="https://github.com/RodrigoEstevan/Vaso-de-plantas-inteligente/blob/master/projeto%20iot%20-%20vaso%20inteligente.png?raw=true" alt="">
